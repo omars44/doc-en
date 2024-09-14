@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+reference/solr/solrquery/sethighlightquery.xml<?xml version="1.0" encoding="utf-8"?>
 <refentry xml:id="solrquery.sethighlightquery" xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink">
  <refnamediv>
   <refname>SolrQuery::setHighlightQuery</refname>
